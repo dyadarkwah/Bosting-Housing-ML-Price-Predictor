@@ -51,14 +51,14 @@ def user_input_features():
     features = pd.DataFrame(data, index=[0])
     return features
 
-df = user_input_features()
+# df = user_input_features()
 
 # Main Panel
 
 # Print specified input parameters
-st.header('Specified Input parameters')
-st.write(df)
-st.write('---')
+# st.header('Specified Input parameters')
+# st.write(df)
+# st.write('---')
 
 # # Build Regression Model
 # model = RandomForestRegressor()
