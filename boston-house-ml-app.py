@@ -4,6 +4,8 @@ import shap
 import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.ensemble import RandomForestRegressor
+import numpy as np
+
 
 st.write("""
 # Boston House Price Prediction App
