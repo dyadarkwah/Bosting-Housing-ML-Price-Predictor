@@ -3,4 +3,4 @@ pandas==0.25.3
 shap==0.39.0
 matplotlib==3.3.2
 sklearn==0.0
-numpy==1.18.1
+numpy==1.21.0
